@@ -1,5 +1,6 @@
 # ⚡ Muhammad Usman — Visual Portfolio & Systems Portal
 
+[![Live Demo](https://img.shields.io/badge/Demo-Live%20Application-00e5ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://usman3660.github.io/Progree-portfolio-Application/)
 [![HTML5](https://img.shields.io/badge/HTML5-Semantic%20DOM-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-Grid%20%26%20Flexbox-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B%20Vanilla-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -7,9 +8,18 @@
 [![Accessibility](https://img.shields.io/badge/a11y-WCAG%202.1%20AAA-success?style=for-the-badge)](https://www.w3.org/WAI/standards-guidelines/wcag/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 
+> 🚀 **Live Application:** [https://usman3660.github.io/Progree-portfolio-Application/](https://usman3660.github.io/Progree-portfolio-Application/)
+
 A high-performance, fully responsive, and accessible visual portal & portfolio web application engineered for **Muhammad Usman** (Creative Technologist & Full-Stack Systems Architect based in Islamabad & Lahore, Pakistan).
 
 Crafted with clean **Semantic HTML5**, fluid **CSS Grid & Flexbox systems**, **WebGL/Canvas particle physics**, an **interactive CLI terminal**, and a **multi-theme engine** (Dark Luxe, Cyberpunk Neon, and Clean Light).
+
+---
+
+## 🌐 Live Application Demo
+
+Experience the live portfolio application directly in your browser:
+👉 **[https://usman3660.github.io/Progree-portfolio-Application/](https://usman3660.github.io/Progree-portfolio-Application/)**
 
 ---
 
@@ -166,4 +176,4 @@ Distributed under the **MIT License**. See `LICENSE` for more details.
 *Principal Systems Architect & Creative Technologist*  
 📍 Islamabad & Lahore, Pakistan  
 📧 [usman.dev@portfolio.pk](mailto:usman.dev@portfolio.pk)  
-🌐 [LinkedIn](https://linkedin.com) &bull; [GitHub](https://github.com)
+🌐 [Live Portfolio](https://usman3660.github.io/Progree-portfolio-Application/) &bull; [LinkedIn](https://linkedin.com) &bull; [GitHub](https://github.com/usman3660)
